@@ -7,9 +7,9 @@
 from setuptools import setup
 
 setup(
-    name="audiovis",
+    name="AudioVis",
     version="0.1",
-    packages=["audiovis"],
+    packages=["AudioVis"],
     install_requires=[
         "librosa",
         "matplotlib"
