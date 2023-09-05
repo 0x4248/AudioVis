@@ -1,0 +1,8 @@
+# AudioVis
+# Visualize audio with graphs.
+# Github: https://www.github.com/lewisevans2007/AudioVis
+# Licence: GNU General Public License v3.0
+# By: Lewis Evans
+
+matplotlib==3.7.2
+librosa==0.10.1
