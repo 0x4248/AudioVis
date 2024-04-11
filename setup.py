@@ -1,8 +1,8 @@
 # AudioVis
 # Visualize audio with graphs.
-# Github: https://www.github.com/lewisevans2007/AudioVis
+# Github: https://www.github.com/0x4248/AudioVis
 # Licence: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 from setuptools import setup
 
